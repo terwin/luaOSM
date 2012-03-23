@@ -1,7 +1,7 @@
 package = "LuaOSM"
 version = "1.0-1"
 source = {
-  url = "http://..." 
+  url = "git@github.com:terwin/luaOSM.git" 
 }
 description = {
   summary = "OSM (OpenStreetMap) database parsing",
