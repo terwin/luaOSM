@@ -2,7 +2,7 @@ package = "LuaOSM"
 version = "1.0-1"
 
 source = {
-  url = "https://terwin@github.com/terwin/luaOSM.git" 
+  url = "git://github.com/terwin/luaOSM.git" 
 }
 
 description = {
